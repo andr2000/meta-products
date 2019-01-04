@@ -4,6 +4,6 @@
 
     <default remote="github" sync-j="10" sync-c="true" />
 
-    <project name="andr2000/meta-prod-smarthome" path="meta-prod-smarthome" upstream="master" revision="master" />
+    <project name="andr2000/meta-prod-smarthome" path="meta-prod-smarthome" upstream="pr_influxdb" revision="pr_influxdb" />
     <project name="andr2000/xt-distro" path="xt-distro" upstream="rpi" revision="rpi" />
 </manifest>
