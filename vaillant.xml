@@ -12,4 +12,7 @@
     <project remote="openembedded" name="meta-openembedded" path="meta-openembedded" upstream="sumo" revision="sumo" />
     <project remote="github" name="jumpnow/meta-rpi" path="meta-rpi" upstream="sumo" revision="sumo" />
     <project remote="github" name="meta-qt5/meta-qt5" path="meta-qt5" upstream="sumo" revision="sumo" />
+    <project remote="github" name="kraj/meta-influx" path="meta-influx" upstream="kraj/develop" revision="kraj/develop" />
+    <project remote="github" name="imyller/meta-nodejs" path="meta-nodejs" upstream="master" revision="master" />
+    <project remote="github" name="mem/oe-meta-go" path="oe-meta-go" upstream="master" revision="master" />
 </manifest>
