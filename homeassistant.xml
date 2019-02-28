@@ -12,4 +12,5 @@
     <project remote="openembedded" name="meta-openembedded" path="meta-openembedded" upstream="sumo" revision="sumo" />
     <project remote="github" name="jumpnow/meta-rpi" path="meta-rpi" upstream="sumo" revision="sumo" />
     <project remote="github" name="meta-qt5/meta-qt5" path="meta-qt5" upstream="sumo" revision="sumo" />
+    <project remote="github" name="andr2000/meta-homeassistant" path="meta-homeassistant" upstream="master" revision="master" />
 </manifest>
