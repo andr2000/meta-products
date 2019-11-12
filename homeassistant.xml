@@ -9,6 +9,7 @@
     <project remote="yoctoproject" name="poky" path="poky" upstream="warrior" revision="warrior" />
     <project remote="yoctoproject" name="meta-raspberrypi" path="meta-raspberrypi" upstream="warrior" revision="warrior" />
     <project remote="yoctoproject" name="meta-security" path="meta-security" upstream="warrior" revision="warrior" />
+    <project remote="yoctoproject" name="meta-virtualization" path="meta-virtualization" upstream="warrior" revision="warrior" />
     <project remote="openembedded" name="meta-openembedded" path="meta-openembedded" upstream="warrior" revision="warrior" />
     <project remote="github" name="jumpnow/meta-rpi" path="meta-rpi" upstream="warrior" revision="warrior" />
     <project remote="github" name="andr2000/meta-homeassistant" path="meta-homeassistant" upstream="master" revision="master" />
