@@ -11,6 +11,5 @@
     <project remote="yoctoproject" name="meta-security" path="meta-security" upstream="warrior" revision="warrior" />
     <project remote="openembedded" name="meta-openembedded" path="meta-openembedded" upstream="warrior" revision="warrior" />
     <project remote="github" name="jumpnow/meta-rpi" path="meta-rpi" upstream="warrior" revision="warrior" />
-    <project remote="github" name="meta-qt5/meta-qt5" path="meta-qt5" upstream="warrior" revision="warrior" />
     <project remote="github" name="andr2000/meta-homeassistant" path="meta-homeassistant" upstream="master" revision="master" />
 </manifest>
