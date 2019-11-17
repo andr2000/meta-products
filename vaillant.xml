@@ -11,5 +11,4 @@
     <project remote="yoctoproject" name="meta-security" path="meta-security" upstream="thud" revision="thud" />
     <project remote="openembedded" name="meta-openembedded" path="meta-openembedded" upstream="thud" revision="thud" />
     <project remote="github" name="jumpnow/meta-rpi" path="meta-rpi" upstream="thud" revision="thud" />
-    <project remote="github" name="meta-qt5/meta-qt5" path="meta-qt5" upstream="thud" revision="thud" />
 </manifest>
