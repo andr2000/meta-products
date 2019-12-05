@@ -13,5 +13,5 @@
     <project remote="openembedded" name="meta-openembedded" path="meta-openembedded" upstream="warrior" revision="warrior" />
     <project remote="github" name="jumpnow/meta-rpi" path="meta-rpi" upstream="warrior" revision="warrior" />
     <project remote="github" name="andr2000/meta-homeassistant" path="meta-homeassistant" upstream="master" revision="master" />
-    <project remote="github" name="cmhe/meta-readonly-rootfs-overlay" path="meta-readonly-rootfs-overlay" upstream="master" revision="master" />
+    <project remote="github" name="andr2000/meta-readonly-rootfs-overlay" path="meta-readonly-rootfs-overlay" upstream="master" revision="master" />
 </manifest>
