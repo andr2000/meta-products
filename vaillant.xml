@@ -11,4 +11,5 @@
     <project remote="yoctoproject" name="meta-security" path="meta-security" upstream="warrior" revision="warrior" />
     <project remote="openembedded" name="meta-openembedded" path="meta-openembedded" upstream="warrior" revision="warrior" />
     <project remote="github" name="jumpnow/meta-rpi" path="meta-rpi" upstream="warrior" revision="warrior" />
+    <project remote="github" name="cmhe/meta-readonly-rootfs-overlay" path="meta-readonly-rootfs-overlay" upstream="master" revision="master" />
 </manifest>
